@@ -12,7 +12,7 @@ namespace LiveMap.Server.Utilities
     {
         private const string RepositoryName = "simple-livemap";
 
-        private const string RepositoryOwner = "all-in-simplicity";
+        private const string RepositoryOwner = "charming-byte";
 
         private static readonly GitHubClient Client = new(new ProductHeaderValue("simple-livemap"));
 
