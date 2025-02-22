@@ -14,9 +14,9 @@
     A simple LiveMap for FiveM.
     <br />
     <br />
-    <a href="/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/charming-byte/simple-livemap/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/charming-byte/simple-livemap/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Demo Video][product-screenshot]](/)
+[![Demo Video][product-screenshot]](https://github.com/charming-byte/simple-livemap/releases)
 
 This resource shows the locations of players as markers on a map.<br>
 
@@ -50,7 +50,7 @@ This resource shows the locations of players as markers on a map.<br>
 <!-- Installation -->
 ## Installation
 
-1. Download the latest release from [here](/releases).
+1. Download the latest release from [here](https://github.com/charming-byte/simple-livemap/releases).
 2. Unzip and copy the downloaded file to your `resources` folder of your server.
 3. Add `start slm` to `server.cfg`.
 
