@@ -14,9 +14,9 @@
     A simple LiveMap for FiveM.
     <br />
     <br />
-    <a href="https://github.com/all-in-simplicity/simple-livemap/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/all-in-simplicity/simple-livemap/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Demo Video][product-screenshot]](https://github.com/all-in-simplicity/simple-livemap)
+[![Demo Video][product-screenshot]](/)
 
 This resource shows the locations of players as markers on a map.<br>
 
@@ -50,7 +50,7 @@ This resource shows the locations of players as markers on a map.<br>
 <!-- Installation -->
 ## Installation
 
-1. Download the latest release from [here](https://github.com/all-in-simplicity/simple-livemap/releases).
+1. Download the latest release from [here](/releases).
 2. Unzip and copy the downloaded file to your `resources` folder of your server.
 3. Add `start slm` to `server.cfg`.
 
@@ -98,15 +98,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-shield]: https://img.shields.io/github/stars/all-in-simplicity/simple-livemap.svg?style=for-the-badge
-[stars-url]: https://github.com/all-in-simplicity/simple-livemap/stargazers
-[issues-shield]: https://img.shields.io/github/issues/all-in-simplicity/simple-livemap.svg?style=for-the-badge
-[issues-url]: https://github.com/all-in-simplicity/simple-livemap/issues
-[license-shield]: https://img.shields.io/github/license/all-in-simplicity/simple-livemap.svg?style=for-the-badge
-[license-url]: https://github.com/all-in-simplicity/simple-livemap/blob/master/LICENSE
+[stars-shield]: https://img.shields.io/github/stars/charming-byte/simple-livemap.svg?style=for-the-badge
+[stars-url]: https://github.com/charming-byte/simple-livemap/stargazers
+[issues-shield]: https://img.shields.io/github/issues/charming-byte/simple-livemap.svg?style=for-the-badge
+[issues-url]: https://github.com/charming-byte/simple-livemap/issues
+[license-shield]: https://img.shields.io/github/license/charming-byte/simple-livemap.svg?style=for-the-badge
+[license-url]: https://github.com/charming-byte/simple-livemap/blob/main/LICENSE
 [product-screenshot]: ../assets/demo.gif?raw=true
-[ci-shield]: https://img.shields.io/github/actions/workflow/status/all-in-simplicity/simple-livemap/ci.yml?style=for-the-badge
-[ci-url]: https://github.com/all-in-simplicity/simple-livemap/actions/workflows/ci.yml
+[ci-shield]: https://img.shields.io/github/actions/workflow/status/charming-byte/simple-livemap/ci.yml?style=for-the-badge
+[ci-url]: https://github.com/charming-byte/simple-livemap/actions/workflows/ci.yml
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [CSharp]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white
