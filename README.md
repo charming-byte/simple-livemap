@@ -24,7 +24,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary> 📑 Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#installation">Installation</a></li>
@@ -38,7 +38,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 📌 About The Project
 
 [![Demo Video][product-screenshot]](https://github.com/charming-byte/simple-livemap/releases)
 
@@ -48,7 +48,7 @@ This resource shows the locations of players as markers on a map.<br>
 
 
 <!-- Installation -->
-## Installation
+## 🛠️ Installation
 
 1. Download the latest release from [here](https://github.com/charming-byte/simple-livemap/releases).
 2. Unzip and copy the downloaded file to your `resources` folder of your server.
@@ -57,13 +57,13 @@ This resource shows the locations of players as markers on a map.<br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## 🚀 Usage
 
 Access the map at `http://<server IP>:<server PORT>/slm` or `https://<owner>-<server ID>.users.cfx.re/slm` (Note: No trailing slash!)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 🤝 Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -81,14 +81,14 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## 🙏 Acknowledgments
 
 * [webadmin by CitizenFX](https://github.com/citizenfx/fivem/tree/master/ext/webadmin)
 
